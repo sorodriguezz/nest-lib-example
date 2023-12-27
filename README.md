@@ -7,6 +7,11 @@
 ## Descripción
 Este repositorio es un ejemplo para crear una libreria en NestJS compartida.
 
+# Tecnologías
+- Node
+- NestJS 10.3.0
+- Express
+
 ## Contenido
 ```
 └── 📁src
